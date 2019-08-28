@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Favorite Foods</string>
+    <string name="american_url">http://tinyurl.com/gsf9773</string>
+    <string name="american_food">http://tinyurl.com/jc3hcj3</string>
+    <string name="toast_american">You have clicked American Food </string>
+    <string name="label_american">American</string>
+    <string name="filipino_url">http://tinyurl.com/zkcx88j</string>
+    <string name="filipino_food">http://tinyurl.com/jqko8qq</string>
+    <string name="toast_filipino">You have clicked Filipino Food </string>
+    <string name="label_filipino">Filipino</string>
+    <string name="mexican_url">http://tinyurl.com/jl95h86</string>
+    <string name="mexican_food">https://bit.ly/2YOUK91</string>
+    <string name="toast_mexican">You have clicked Mexican Food </string>
+    <string name="label_mexican">Mexican</string>
+    <string name="peruvian_url">http://tinyurl.com/zc4pruy</string>
+    <string name="peruvian_food">https://bit.ly/2YY1zFb</string>
+    <string name="toast_peruvian">You have clicked Peruvian Food </string>
+    <string name="label_peruvian">Peruvian</string>
+    <string name="italian_url">http://tinyurl.com/znylbvc</string>
+    <string name="italian_food">https://bit.ly/2MQQAH5</string>
+    <string name="toast_italian">You have clicked Italian Food </string>
+    <string name="label_italian">Italian</string>
+    <string name="japanese_url">http://tinyurl.com/hjerw8w</string>
+    <string name="japanese_food">http://tinyurl.com/hsr9e2k</string>
+    <string name="toast_japanese">You have clicked Japanese Food </string>
+    <string name="label_japanese">Japanese</string>
+    <string name="toast_ending"> time</string>
+    <string name="toast_ending2"> times</string>
+</resources>
